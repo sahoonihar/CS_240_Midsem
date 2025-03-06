@@ -1,0 +1,11 @@
+Heuristic: h = 0
+Nodes Expanded = 1965
+Queen Positions = 04752613
+
+Heuristic: h = number of queens placed
+Nodes Expanded = 113
+Queen Positions = 04752613
+
+Heuristic: h = number of possible positons for next Queen in earliest empty row
+Nodes Expanded = 1806
+Queen Positions = 04752613

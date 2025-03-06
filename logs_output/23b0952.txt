@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "/storage/nihar/TA/CS_240/./cs240labmidsem_20Feb_submissions/cs101-15_submission_23b0952.tar/submission_23b0952/Q1.py", line 105, in <module>
+    a_star(start)
+  File "/storage/nihar/TA/CS_240/./cs240labmidsem_20Feb_submissions/cs101-15_submission_23b0952.tar/submission_23b0952/Q1.py", line 87, in a_star
+    heappush(OL,{(1/start.i),start})
+    ^^^^^^^^
+NameError: name 'heappush' is not defined

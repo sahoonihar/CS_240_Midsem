@@ -1,0 +1,21 @@
+basecase
+[0, 1, 2, 3, 4, 5, 6, 7]
+g with base heuristic 8
+nodes expanded with base heuristic 1401409
+------
+heuristic 1
+[0, 1, 2, 3, 4, 5, 6, 7]
+g with heuristic 1 8
+nodes expanded with heuristic 1 : 1401409
+------
+heuristic 2
+[0, 1, 2, 3, 4, 5, 6, 7]
+g with heuristic 2 8
+nodes expanded with heuristic 2 : 1401409
+Traceback (most recent call last):
+  File "/storage/nihar/TA/CS_240/./cs240labmidsem_20Feb_submissions/cs101-55_submission_23B0921.tar/submission_23B0921/Q1.py", line 171, in <module>
+    main()
+  File "/storage/nihar/TA/CS_240/./cs240labmidsem_20Feb_submissions/cs101-55_submission_23B0921.tar/submission_23B0921/Q1.py", line 164, in main
+    final[i][fin[i]]=1
+             ^^^
+NameError: name 'fin' is not defined. Did you mean: 'bin'?
