@@ -1,0 +1,4 @@
+performance for heuristic h1
+0
+performance for h=0
+0

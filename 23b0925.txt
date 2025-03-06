@@ -1,0 +1,19 @@
+Baseline performance
+2056
+[0, 4, 7, 5, 2, 6, 1, 3]
+O indexed postions column wise
+ 
+Heuristic performance
+160
+[0, 4, 7, 5, 2, 6, 1, 3]
+O indexed postions column wise
+ 
+Heuristic Inferior performance
+160
+[0, 4, 7, 5, 2, 6, 1, 3]
+O indexed postions column wise
+As we can see from the code clearly h_inferior with h_superior as h_s > h_i so h_i in inferior to h_s because h_s accounts for rows as well but h_inf only uses free diagonals
+ 
+But comparing nodes expanded we can see that h_inf and h_sup  give the same performance but h_inf is better compared to h_empty
+ 
+As h_sup is monotonic clearly h_inf is also monotonic

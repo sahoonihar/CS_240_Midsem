@@ -1,0 +1,9 @@
+Traceback (most recent call last):
+  File "/storage/nihar/TA/CS_240/./cs240labmidsem_20Feb_submissions/cs101-122_submission_23b2712.tar/submission_23b2712/Q1.py", line 86, in <module>
+    search()
+  File "/storage/nihar/TA/CS_240/./cs240labmidsem_20Feb_submissions/cs101-122_submission_23b2712.tar/submission_23b2712/Q1.py", line 83, in search
+    heapq.heappush(open, i)
+  File "/storage/nihar/TA/CS_240/./cs240labmidsem_20Feb_submissions/cs101-122_submission_23b2712.tar/submission_23b2712/Q1.py", line 59, in __lt__
+    return self.h() < other.h()
+           ^^^^^^
+AttributeError: 'position' object has no attribute 'h'. Did you mean: 'h0'?

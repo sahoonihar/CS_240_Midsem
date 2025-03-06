@@ -1,0 +1,37 @@
+Baseline Heuristic h0 : h() = 0
+Nodes expanded =  118878
+Final board configuration where Q is queen, _ is empty box: 
+_ _ _ _ Q _ _ _ 
+_ _ _ _ _ _ Q _ 
+_ Q _ _ _ _ _ _ 
+_ _ _ _ _ Q _ _ 
+_ _ Q _ _ _ _ _ 
+Q _ _ _ _ _ _ _ 
+_ _ _ Q _ _ _ _ 
+_ _ _ _ _ _ _ Q 
+
+
+Better Heuristic h1 : h() = number of queens left to be placed to reach a goal state
+Nodes expanded =  68
+Final board configuration where Q is queen, _ is empty box: 
+_ _ _ _ _ Q _ _ 
+_ _ Q _ _ _ _ _ 
+_ _ _ _ Q _ _ _ 
+_ _ _ _ _ _ Q _ 
+Q _ _ _ _ _ _ _ 
+_ _ _ Q _ _ _ _ 
+_ Q _ _ _ _ _ _ 
+_ _ _ _ _ _ _ Q 
+
+
+Worse Heuristic h2 : h() = number of queens left to be placed to reach a goal state if >4 queens already placed, otherwise 0
+Nodes expanded =  46371
+Final board configuration where Q is queen, _ is empty box: 
+_ _ _ _ Q _ _ _ 
+Q _ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ Q 
+_ _ _ Q _ _ _ _ 
+_ Q _ _ _ _ _ _ 
+_ _ _ _ _ _ Q _ 
+_ _ Q _ _ _ _ _ 
+_ _ _ _ _ Q _ _

@@ -1,0 +1,16 @@
+Start state with no queens:[[0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0.]
+ [0. 0. 0. 0. 0. 0. 0. 0.]]
+Traceback (most recent call last):
+  File "/storage/nihar/TA/CS_240/./cs240labmidsem_20Feb_submissions/cs101-96_submission_23b0963.tar/submission_23b0963/q1.py", line 155, in <module>
+    val0=astar_h0(start,heuristic0,g)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/storage/nihar/TA/CS_240/./cs240labmidsem_20Feb_submissions/cs101-96_submission_23b0963.tar/submission_23b0963/q1.py", line 94, in astar_h0
+    heapq.heappush(open_list,{heuristic0(start)+g(start),heuristic0(start),g(start),start,None})
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: unhashable type: 'numpy.ndarray'

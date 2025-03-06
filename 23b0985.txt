@@ -1,0 +1,4 @@
+File "/storage/nihar/TA/CS_240/./cs240labmidsem_20Feb_submissions/cs101-36_submission_23b0985.tar/submission_23b0985/Q1.py", line 94
+    return 0
+    ^^^^^^^^
+SyntaxError: 'return' outside function

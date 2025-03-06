@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/storage/nihar/TA/CS_240/./cs240labmidsem_20Feb_submissions/cs101-101_submission_23b1061.tar/submission_23b1061/Q1.py", line 118, in <module>
+    path1, len1, nodes1 = astar(initial, goal, cost, h_base)
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/storage/nihar/TA/CS_240/./cs240labmidsem_20Feb_submissions/cs101-101_submission_23b1061.tar/submission_23b1061/Q1.py", line 100, in astar
+    g_cost = {initial:0}
+             ^^^^^^^^^^^
+TypeError: unhashable type: 'list'

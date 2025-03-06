@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/storage/nihar/TA/CS_240/./cs240labmidsem_20Feb_submissions/cs101-90_submission_23b1058.tar/submission_23b1058/Q1.py", line 2, in <module>
+    from heapq.lib import heapq
+ModuleNotFoundError: No module named 'heapq.lib'; 'heapq' is not a package

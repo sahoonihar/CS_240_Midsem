@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/storage/nihar/TA/CS_240/./cs240labmidsem_20Feb_submissions/cs101-22_submission_23b1051.tar/submission_23b1051/Q1.py", line 248, in <module>
+    performance_h2 = h2_astar(init_state)
+                     ^^^^^^^^^^^^^^^^^^^^
+  File "/storage/nihar/TA/CS_240/./cs240labmidsem_20Feb_submissions/cs101-22_submission_23b1051.tar/submission_23b1051/Q1.py", line 198, in h2_astar
+    heapq.heappush(OpenList,(0+StartNode.h2(),0,StartNode))
+                             ~^~~~~~~~~~~~~~~
+TypeError: unsupported operand type(s) for +: 'int' and 'NoneType'

@@ -1,0 +1,867 @@
+The Node (1, 13, 24, 30, 35, 47, 50, 60)
+Nodes Expanded: 25943
+The Node (28, 15, 54, 34, 5, 17, 48, 59)
+Nodes Expanded: 917
+Currently Exploring Heuristic 0 
+Nodes Expanded: 50000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 75000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 100000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 125000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 150000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 175000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 200000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 225000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 250000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 275000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 300000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 325000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 350000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 375000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 400000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 425000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 450000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 475000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 500000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 525000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 550000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 575000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 600000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 625000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 650000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 675000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 700000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 725000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 750000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 775000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 800000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 825000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 850000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 875000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 900000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 925000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 950000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 975000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 1000000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 1025000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 1050000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 1075000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 1100000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 1125000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 1150000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 1175000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 1200000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 1225000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 1250000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 1275000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 1300000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 1325000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 1350000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 1375000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 1400000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 1425000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 1450000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 1475000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 1500000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 1525000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 1550000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 1575000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 1600000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 1625000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 1650000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 1675000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 1700000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 1725000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 1750000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 1775000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 1800000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 1825000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 1850000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 1875000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 1900000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 1925000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 1950000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 1975000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 2000000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 2025000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 2050000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 2075000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 2100000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 2125000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 2150000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 2175000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 2200000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 2225000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 2250000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 2275000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 2300000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 2325000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 2350000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 2375000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 2400000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 2425000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 2450000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 2475000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 2500000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 2525000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 2550000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 2575000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 2600000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 2625000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 2650000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 2675000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 2700000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 2725000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 2750000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 2775000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 2800000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 2825000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 2850000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 2875000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 2900000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 2925000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 2950000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 2975000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 3000000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 3025000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 3050000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 3075000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 3100000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 3125000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 3150000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 3175000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 3200000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 3225000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 3250000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 3275000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 3300000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 3325000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 3350000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 3375000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 3400000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 3425000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 3450000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 3475000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 3500000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 3525000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 3550000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 3575000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 3600000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 3625000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 3650000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 3675000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 3700000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 3725000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 3750000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 3775000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 3800000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 3825000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 3850000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 3875000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 3900000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 3925000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 3950000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 3975000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 4000000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 4025000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 4050000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 4075000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 4100000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 4125000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 4150000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 4175000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 4200000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 4225000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 4250000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 4275000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 4300000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 4325000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 4350000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 4375000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 4400000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 4425000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 4450000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 4475000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 4500000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 4525000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 4550000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 4575000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 4600000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 4625000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 4650000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 4675000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 4700000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 4725000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 4750000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 4775000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 4800000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 4825000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 4850000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 4875000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 4900000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 4925000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 4950000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 4975000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 5000000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 5025000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 5050000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 5075000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 5100000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 5125000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 5150000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 5175000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 5200000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 5225000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 5250000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 5275000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 5300000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 5325000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 5350000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 5375000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 5400000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 5425000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 5450000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 5475000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 5500000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 5525000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 5550000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 5575000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 5600000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 5625000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 5650000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 5675000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 5700000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 5725000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 5750000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 5775000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 5800000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 5825000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 5850000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 5875000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 5900000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 5925000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 5950000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 5975000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 6000000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 6025000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 6050000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 6075000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 6100000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 6125000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 6150000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 6175000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 6200000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 6225000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 6250000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 6275000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 6300000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 6325000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 6350000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 6375000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 6400000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 6425000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 6450000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 6475000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 6500000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 6525000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 6550000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 6575000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 6600000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 6625000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 6650000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 6675000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 6700000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 6725000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 6750000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 6775000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 6800000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 6825000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 6850000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 6875000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 6900000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 6925000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 6950000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 6975000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 7000000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 7025000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 7050000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 7075000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 7100000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 7125000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 7150000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 7175000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 7200000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 7225000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 7250000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 7275000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 7300000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 7325000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 7350000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 7375000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 7400000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 7425000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 7450000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 7475000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 7500000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 7525000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 7550000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 7575000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 7600000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 7625000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 7650000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 7675000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 7700000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 7725000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 7750000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 7775000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 7800000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 7825000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 7850000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 7875000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 7900000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 7925000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 7950000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 7975000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 8000000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 8025000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 8050000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 8075000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 8100000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 8125000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 8150000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 8175000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 8200000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 8225000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 8250000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 8275000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 8300000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 8325000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 8350000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 8375000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 8400000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 8425000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 8450000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 8475000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 8500000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 8525000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 8550000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 8575000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 8600000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 8625000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 8650000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 8675000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 8700000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 8725000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 8750000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 8775000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 8800000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 8825000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 8850000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 8875000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 8900000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 8925000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 8950000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 8975000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 9000000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 9025000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 9050000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 9075000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 9100000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 9125000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 9150000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 9175000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 9200000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 9225000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 9250000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 9275000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 9300000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 9325000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 9350000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 9375000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 9400000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 9425000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 9450000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 9475000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 9500000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 9525000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 9550000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 9575000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 9600000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 9625000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 9650000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 9675000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 9700000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 9725000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 9750000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 9775000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 9800000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 9825000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 9850000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 9875000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 9900000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 9925000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 9950000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 9975000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 10000000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 10025000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 10050000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 10075000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 10100000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 10125000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 10150000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 10175000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 10200000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 10225000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 10250000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 10275000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 10300000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 10325000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 10350000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 10375000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 10400000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 10425000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 10450000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 10475000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 10500000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 10525000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 10550000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 10575000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 10600000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 10625000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 10650000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 10675000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 10700000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 10725000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 10750000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 10775000
+Currently Exploring Heuristic 0 
+Nodes Expanded: 10800000
+ERROR: Script timed out (possible infinite loop).

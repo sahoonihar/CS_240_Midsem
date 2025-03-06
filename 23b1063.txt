@@ -1,0 +1,39 @@
+heuristic 1
+nodes expanded : 1965
+goal state: [1, 6, 4, 7, 0, 3, 5, 2]
+[['x' 'x' 'x' 'x' 'Q' 'x' 'x' 'x']
+ ['Q' 'x' 'x' 'x' 'x' 'x' 'x' 'x']
+ ['x' 'x' 'x' 'x' 'x' 'x' 'x' 'Q']
+ ['x' 'x' 'x' 'x' 'x' 'Q' 'x' 'x']
+ ['x' 'x' 'Q' 'x' 'x' 'x' 'x' 'x']
+ ['x' 'x' 'x' 'x' 'x' 'x' 'Q' 'x']
+ ['x' 'Q' 'x' 'x' 'x' 'x' 'x' 'x']
+ ['x' 'x' 'x' 'Q' 'x' 'x' 'x' 'x']]
+
+heuristic 2
+nodes expanded : 1577
+goal state: [3, 7, 0, 4, 6, 1, 5, 2]
+[['x' 'x' 'Q' 'x' 'x' 'x' 'x' 'x']
+ ['x' 'x' 'x' 'x' 'x' 'Q' 'x' 'x']
+ ['x' 'x' 'x' 'x' 'x' 'x' 'x' 'Q']
+ ['Q' 'x' 'x' 'x' 'x' 'x' 'x' 'x']
+ ['x' 'x' 'x' 'Q' 'x' 'x' 'x' 'x']
+ ['x' 'x' 'x' 'x' 'x' 'x' 'Q' 'x']
+ ['x' 'x' 'x' 'x' 'Q' 'x' 'x' 'x']
+ ['x' 'Q' 'x' 'x' 'x' 'x' 'x' 'x']]
+
+heuristic 3
+nodes expanded : 86
+goal state: [2, 5, 3, 1, 7, 4, 6, 0]
+[['x' 'x' 'x' 'x' 'x' 'x' 'x' 'Q']
+ ['x' 'x' 'x' 'Q' 'x' 'x' 'x' 'x']
+ ['Q' 'x' 'x' 'x' 'x' 'x' 'x' 'x']
+ ['x' 'x' 'Q' 'x' 'x' 'x' 'x' 'x']
+ ['x' 'x' 'x' 'x' 'x' 'Q' 'x' 'x']
+ ['x' 'Q' 'x' 'x' 'x' 'x' 'x' 'x']
+ ['x' 'x' 'x' 'x' 'x' 'x' 'Q' 'x']
+ ['x' 'x' 'x' 'x' 'Q' 'x' 'x' 'x']]
+
+heurictic h1 which returns 0 has highest number of nodes expanded
+heurictic h2 which returns number of possible neighbours has second highest number of nodes expanded
+heurictic h3 which returns number of queens left to be placed has lowest number of nodes expanded and best performance

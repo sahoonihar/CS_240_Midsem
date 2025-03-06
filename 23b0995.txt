@@ -1,0 +1,9 @@
+applying a_star with h = 0
+[(0, 0), (1, 4), (2, 7), (3, 5), (4, 2), (5, 6), (6, 1), (7, 3)]
+node exanded: 1970
+applying a_star with h = 8 - no. of queens placed.
+[(0, 0), (1, 4), (2, 7), (3, 5), (4, 2), (5, 6), (6, 1), (7, 3)]
+node exanded: 1970
+applying a_star with h3 = -(avg manhatten dist bw adjacent queens.)
+[(0, 0), (5, 6), (1, 4), (6, 1), (2, 7), (7, 3), (3, 5), (4, 2)]
+node exanded: 29346

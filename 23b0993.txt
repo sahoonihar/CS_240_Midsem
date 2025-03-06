@@ -1,0 +1,4 @@
+File "/storage/nihar/TA/CS_240/./cs240labmidsem_20Feb_submissions/cs101-123_submission_23b0993.tar/submission_23b0993/Q1.py", line 26
+    new_queens = self.queens + [col]
+    ^
+IndentationError: expected an indented block after 'if' statement on line 25

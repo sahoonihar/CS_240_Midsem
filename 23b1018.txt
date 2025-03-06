@@ -1,0 +1,12 @@
+Number of nodes expanded with unguided search using zero heuristic: 118878
+Number of nodes expanded using a monotonic heuristic 1: 1970
+Number of nodes expanded using a monotonic heuristic 2: 191
+Based on performance heuristic_2 better than heuristic_1 better than zero_heuristic
+O O O O X O O O 
+O O O O O O X O 
+X O O O O O O O 
+O O O X O O O O 
+O X O O O O O O 
+O O O O O O O X 
+O O O O O X O O 
+O O X O O O O O

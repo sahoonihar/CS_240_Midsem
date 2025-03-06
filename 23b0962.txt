@@ -1,0 +1,4 @@
+File "/storage/nihar/TA/CS_240/./cs240labmidsem_20Feb_submissions/cs101-129_submission_23b0962.tar/submission_23b0962/23b0962.py", line 11
+    X_temp = np.hstack((-np.ones((X_temp.shape[0], 1)),row))
+    ^
+IndentationError: expected an indented block after function definition on line 10

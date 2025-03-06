@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "/storage/nihar/TA/CS_240/./cs240labmidsem_20Feb_submissions/sl1-19_submission_23b0997.tar/submission_23b0997/Q1.py", line 106, in <module>
+    performance, path = A_star(start_state, g, h_base)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/storage/nihar/TA/CS_240/./cs240labmidsem_20Feb_submissions/sl1-19_submission_23b0997.tar/submission_23b0997/Q1.py", line 98, in A_star
+    heapq.heappush(open_list, (f_neighbour, g_neighbour, neighbour))
+ValueError: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
